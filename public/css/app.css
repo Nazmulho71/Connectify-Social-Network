@@ -1,0 +1,21 @@
+* {
+    /* font-family: josefin sans; */
+}
+
+a#user_q {
+    color: #003a79;
+    text-decoration: none;
+    transition: all 0.1s;
+}
+
+a#user_q:hover {
+    opacity: 0.6;
+}
+
+.nav-link {
+    transition: all 0.1s;
+}
+
+textarea {
+    resize: none !important;
+}
